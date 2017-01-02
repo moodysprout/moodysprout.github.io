@@ -7,6 +7,6 @@ project-folder: "pinata-star"
 permalink: "pinata-star"
 ---
 
-Paper, cardboard, glue, and lots of candy
+Paper, cardboard, glue, and lots of candy.
 
 {% include image-gallery.md %}
