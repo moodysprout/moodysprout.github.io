@@ -1,0 +1,20 @@
+<footer class="site-footer">
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4">
+            <ul class="contact-list" style="text-align:center">
+                {% if site.instagram_username %}
+                <li>
+                    <a href="https://instagram.com/{{ site.instagram_username }}">
+                        <span class="username">{{ site.instagram_username }}</span>
+                        (instagram)
+                    </a>
+                </li>
+                {% endif %}
+                <!--<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>-->
+            </ul>
+        </div>
+        <div class="col-md-4"></div>
+    </div>
+  <div class="wrapper">
+</footer>
