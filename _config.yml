@@ -15,3 +15,5 @@ instagram_username: moodycrafts
 # Build settings
 markdown: kramdown
 permalink: pretty
+gems:
+  - jekyll-sitemap
