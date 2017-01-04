@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Gingerbread greenhouse"
-date:   2015-10-08 15:39:40
+description:  "Handmade gingerbread greenhouse, edible base + balsa wood top"
 preview: assets/greenhouse/thumb.jpg
+image: assets/greenhouse/thumb.jpg
 project-folder: "greenhouse"
 permalink: "gingerbread-greenhouse"
 image-default-alt: "diy-handmade-gingerbread-greenhouse"

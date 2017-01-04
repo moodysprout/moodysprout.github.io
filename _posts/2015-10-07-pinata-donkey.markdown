@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Pinata donkey"
-date:   2015-10-07 15:39:40
+description:  "DIY pinata donkey"
 preview: assets/pinata-donkey/thumb.png
+image: assets/pinata-donkey/thumb.png
 project-folder: "pinata-donkey"
 permalink: "diy-pinata-donkey"
 image-default-alt: "diy-handmade-donkey-pinata"

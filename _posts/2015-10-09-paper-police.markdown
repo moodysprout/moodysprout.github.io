@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Papercraft police hat for cute dog"
-date:   2015-10-09 15:39:40
+description:  "Papercraft police hat for cute dog"
 preview: assets/paper-police/thumb.jpg
+image: assets/paper-police/thumb.jpg
 project-folder: paper-police
 permalink: papercraft-police-hat-for-cute-dog
 image-default-alt: "diy-papercraft-police-hat-for-cute-dog"

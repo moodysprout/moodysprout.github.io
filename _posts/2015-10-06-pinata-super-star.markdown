@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Handmade pinata super star"
-date:   2015-10-06 15:39:40
 preview: "assets/pinata-star/thumb.png"
+image: "assets/pinata-star/thumb.png"
+description: "DIY Nintendo Super Mario Star pinata" 
 project-folder: "pinata-star"
 permalink: "diy-pinata-nintendo-super-star"
 image-default-alt: "diy-handmade-nintendo-super-mario-star-pinata"

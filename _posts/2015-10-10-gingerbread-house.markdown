@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Gingerbread house with lights"
-date:   2015-10-09 15:39:40
+description:  "DIY gingerbread house with working lights"
 preview: assets/gingerbread-house/thumb.jpg
+image: assets/gingerbread-house/thumb.jpg
 project-folder: gingerbread-house
 permalink: "gingerbread-house-with-lights"
 image-default-alt: "diy-handmade-gingerbread-house-with-lights"
